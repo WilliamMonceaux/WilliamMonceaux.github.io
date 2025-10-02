@@ -1,0 +1,56 @@
+
+      * {
+        box-sizing: border-box;
+        margin: 0;
+      }
+      
+      html {
+        font-size: 10px;
+        font-family:Arial, Helvetica, sans-serif;
+      }
+    
+      h2, h3 {
+        font-size: 2rem;
+        color: #16AAFA;
+      }
+
+      p {
+        font-size: 1.5rem;
+        margin: 2rem;
+        text-align: center;
+      }
+      p.description-space {
+        margin-bottom: 6rem;
+      }
+
+      body {
+        height: 100%;
+        background-color: #fdfdfd;
+      }
+
+      h1 {
+        font-size: 4rem;
+        color:#16AAFA;       // color: orangered;
+        text-align: center;
+        margin-top: 2rem;
+      }
+      img {
+        width: 45rem;
+        height: 40rem;
+        position:relative;
+        left: 75.5rem;
+        top: 2rem;
+      }
+      section.Experience {
+        //background-color:#27d4ff;
+        color: black;
+        width: 100rem;
+        position:relative;
+        left:44rem;
+        text-align:center;
+        margin:.5rem;
+      }
+
+      footer {
+        background-color: red;
+      }
